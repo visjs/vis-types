@@ -1,3 +1,5 @@
+Note: This is no longer used, the types are managed in individual packages now.
+
 # vis-types
 
 This is a partial fork of the [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) repository. 
